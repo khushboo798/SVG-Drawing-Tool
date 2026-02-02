@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/SVG-Drawing-Tool/',   // ⭐ IMPORTANT (repo name)
+  base: '/SVG-Drawing-Tool/',
 })
